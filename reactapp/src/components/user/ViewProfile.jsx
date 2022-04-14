@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 
+
 export default class ViewProfile extends React.Component {
   render() {
     return (
@@ -47,8 +48,12 @@ export default class ViewProfile extends React.Component {
     </table></center>
 
           </div>
+        
+        
         </div>
       </div>
+        
     );
   }
 }
+
